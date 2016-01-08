@@ -1,0 +1,29 @@
+* {
+	font-family: garamond;
+}
+
+.profile-pic {
+
+	width: 100%;
+}
+
+.title {
+	font-size: 12pt;
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+.meta-data {
+	font-size: 10pt;
+}
+
+.fav {
+	text-align: right;
+}
